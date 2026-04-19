@@ -1,0 +1,5 @@
+Progrants - Misc Graphical Programs Mostly In Quickshell
+
+Copyright (c) 2026, Joshua Steven Grant (ie: Jost Grant)
+
+This project is dual-licensed under the MIT and/or BSD-2 Clause License, at your option.
